@@ -1,0 +1,13 @@
+.vscode/
+
+kafka-connect/
+!kafka-connect/.gitkeep
+
+mysql/
+!mysql/.gitkeep
+
+es01/
+!es01/.gitkeep
+
+data
+!data/.gitkeep
